@@ -1,0 +1,22 @@
+.mainCircle{
+    fill:transparent;
+    stroke: blue;
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+.tan1{
+    stroke: green;
+    stroke-width: 1px;
+}
+.tan2{
+    stroke: red;
+    stroke-width: 1px;
+}
+.tan1eqn{
+    background-color: green;
+}
+.tan2eqn{
+    background-color: red;
+}
